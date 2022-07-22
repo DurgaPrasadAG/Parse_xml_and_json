@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<records>
+    <employee>
+        <city_name>Mysore</city_name>
+        <Latitude>15.295</Latitude>
+        <Longitude>106.639</Longitude>
+        <Temperature>25</Temperature>
+        <Humidity>80%</Humidity>
+    </employee>
+</records>
